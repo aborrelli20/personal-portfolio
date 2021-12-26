@@ -1,0 +1,23 @@
+h3{
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.about {
+  margin-top: 150px;
+  font-size: 1.3em;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 350;
+}
+
+.contact-link {
+  font-size: 1.7em;
+  margin: 20%;
+  color: black;
+  
+}
+
+.title {
+  font-family: 'Oswald', sans-serif;
+}
